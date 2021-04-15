@@ -1,0 +1,233 @@
+body {
+    font-family: 'Bebas Neue',
+    cursive;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+li {
+    display: inline;
+    margin-left: 30px;
+    color:#3C3C3C;
+}
+.menu{
+    position: absolute;
+    width: 319px;
+    height: 24px;
+    left: 979px;
+    top: 37px;
+}
+.top-banner {
+    padding-top: 80px;
+}
+.left-top{
+    position: relative;
+    top: -60px;
+    float: left;
+    padding:100px 350px 100px 100px;
+}
+.left-top h1 {
+    margin: 0px;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 60px;
+    color: #363958;
+}
+.left-top p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#name{
+    color: #FF8367;
+}
+.left-top p{
+    color: #3E3E3E;
+}
+button{ 
+    width: 170px;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    background-image: linear-gradient(0deg, #FF8063, tomato);
+    font-size: 16px;
+}
+.right-top img {
+    float: left;
+    width: 480px;
+    height: 450px;
+}
+.left-mid {
+    float: left;
+    margin: 0px 100px 100px 100px;
+}
+.right-mid {
+    padding-right: 100px;
+    float: right;
+    left: 749px;
+    top: 712px;
+    font-family: Bebas Neue;
+    font-style: normal;
+}
+.right-mid h1 {
+    color: #363958;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 45px;
+}
+.left-mid img {
+    float: left;
+    width: 480px;
+    height: 450px;
+}
+.project {
+    position: absolute;
+    width: 1440px;
+    height: 795px;
+    left: 0px;
+    top: 1101px;
+    background-color: #F8F9FC;
+}
+.project h1 {
+        position: absolute;
+        top: 100px;
+        left: 497px;
+        color: #363958;
+        font-family: Bebas Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 38px;
+}
+#latest {
+    color: #F46060;
+}
+img {
+    width: 350px;
+    height: 220px;
+    left: 100px;
+    margin: 10px;
+}
+.headline h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    padding: 10px 10px 0px 10px;
+    color: #363958;
+}
+.text p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 0px 10px 0px 10px;
+    color: #6C6C6C;
+    position: relative;
+    top: -15px;
+}
+.left{
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 100px;
+    top: 254px;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+}
+.middle {
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 500px;
+    top: 254px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+}
+.right {
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 900px;
+    top: 254px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+}
+.image {
+    width: 343.54px;
+    height: 213.23px;
+    left: 148px;
+    top: 469px;
+}
+.work {
+    position: absolute;
+    width: 906px;
+    height: 225px;
+    left: 230px;
+    top: 1995px;
+    background-image: url('shapes/Group_33094_1.png');
+    background-repeat: no-repeat;
+    background-size: 900px 200px;
+}
+.work h1 {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #FFFFFF;
+    position: relative;
+    top: 20px;
+    left: 64px;
+}
+.work button {
+    height: 60px;
+    width: 134px;
+    float: right;
+    top: -100px;
+    left: -90px;
+    position: relative;
+}
+.connected {
+    position: relative;
+    right: 615px;
+    top: 2185px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    color: #696871;
+}
+.mail {
+    position: relative;
+    right: 220px;
+    top: 1475px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #363958;
+}
+.social img {
+    position: relative;
+    top: 1455px;
+    left: -142px;
+    height: 40px;
+    width: 40px;
+    padding-bottom: 60px;
+}
